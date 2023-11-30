@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NeonWii
-- 👀 I’m interested in Retro Games and Maths
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me neonglitch_ on discord
 
 <!---
